@@ -7,7 +7,8 @@ function App() {
       <div className="App">
         <header className="App-header">
           <h1>Welcome to Sacry</h1>
-          <p></p>
+          <p>Te amo ❤️</p>
+          <h4>Ribhelly</h4>
         </header>
       </div>
       <footer className="App-footer">
